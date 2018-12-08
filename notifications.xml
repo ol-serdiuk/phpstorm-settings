@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Health" displayType="NONE" />
+  </component>
+</application>

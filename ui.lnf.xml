@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="628" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+  </component>
+</application>
