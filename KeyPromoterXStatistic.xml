@@ -62,7 +62,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -134,6 +134,14 @@
           <IdeaActionID>Inline</IdeaActionID>
           <ShortCut>'Ctrl+Alt+N'</ShortCut>
           <Description>Inline...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Jump to Console...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
