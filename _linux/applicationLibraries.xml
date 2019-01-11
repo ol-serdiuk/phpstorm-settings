@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="all" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_releases_v5.3.1_js_all.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_releases_v5.3.1_js_all.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="axios" type="javaScript">
       <properties>
         <sourceFilesUrls>
