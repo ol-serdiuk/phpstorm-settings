@@ -78,7 +78,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>105</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
