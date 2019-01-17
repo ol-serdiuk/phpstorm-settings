@@ -5,7 +5,6 @@
     <variable name="MINUTES" expression="" defaultValue="&quot;1440&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -16,7 +15,6 @@
     <variable name="MINUTES" expression="" defaultValue="&quot;1440&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -26,7 +24,6 @@
     <variable name="VALUE" expression="" defaultValue="&quot;'value'&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -35,7 +32,6 @@
     <variable name="KEY" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -45,7 +41,6 @@
     <variable name="DEFAULT" expression="" defaultValue="&quot;, 'default'&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -55,7 +50,6 @@
     <variable name="MINUTES" expression="" defaultValue="&quot;1440&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -64,7 +58,6 @@
     <variable name="KEY" expression="" defaultValue="&quot;users&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -73,7 +66,6 @@
     <variable name="KEY" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -82,7 +74,6 @@
     <variable name="KEY" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
@@ -91,7 +82,6 @@
     <variable name="KEY" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="false" />
-      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
     </context>
