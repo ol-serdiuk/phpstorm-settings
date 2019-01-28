@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
 </application>
