@@ -355,6 +355,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Pin Tab">
+        <Item>
+          <IdeaActionID>PinActiveEditorTab</IdeaActionID>
+          <Description>Pin Tab</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
