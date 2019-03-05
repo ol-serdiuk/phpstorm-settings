@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Columns List">
+        <Item>
+          <IdeaActionID>Console.TableResult.ColumnsList</IdeaActionID>
+          <ShortCut>'Ctrl+F12'</ShortCut>
+          <Description>Columns List</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -95,6 +103,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>124</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit">
+        <Item>
+          <IdeaActionID>Console.TableResult.EditValue</IdeaActionID>
+          <ShortCut>'F2' or 'Enter' or 'Alt+Enter'</ShortCut>
+          <Description>Edit</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -223,6 +239,14 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Documentation">
+        <Item>
+          <IdeaActionID>QuickJavaDoc</IdeaActionID>
+          <ShortCut>'Ctrl+Q'</ShortCut>
+          <Description>Quick Documentation</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
