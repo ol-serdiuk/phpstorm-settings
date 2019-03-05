@@ -5,5 +5,6 @@
     <option name="FONT_SIZE" value="13" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
   </component>
 </application>
