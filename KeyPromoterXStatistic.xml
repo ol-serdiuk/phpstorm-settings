@@ -70,7 +70,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -174,7 +174,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Right'</ShortCut>
           <Description>Forward</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -222,7 +222,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
