@@ -7,8 +7,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="a135dca5-f41d-495e-9e89-3144bd010a80" name="PHP 7.2" home="\usr\bin\php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="aaa315d5-7f5f-4fb9-b556-e3ab08714205" name="PHP 7.3" home="D:\Soft\Coding\PHP\7.3\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="aaa315d5-7f5f-4fb9-b556-e3ab08714205" name="PHP 7.3" home="D:\Soft\Coding\PHP\7.3\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="D:\Soft\Coding\PHP\7.3\ext\php_xdebug-2.7.2-7.3-vc15.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -20,7 +19,11 @@
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.7.2">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -53,6 +56,7 @@
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
