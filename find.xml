@@ -16,9 +16,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.json</mask>
-    <mask>*.phtml</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
