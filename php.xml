@@ -1,10 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="aaa315d5-7f5f-4fb9-b556-e3ab08714205" name="PHP 7.3" home="D:\Soft\Coding\PHP\7.3\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="D:\Soft\Coding\PHP\7.3\ext\php_xdebug-2.7.2-7.3-vc15.dll" />
@@ -13,7 +7,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="D:\Soft\Coding\PHP\7.3\php-cgi.exe" php_cli="D:\Soft\Coding\PHP\7.3\php.exe" path_separator=";" version="7.3.7">
+        <phpinfo binary_type="PHP" php_cgi="D:\Soft\Coding\PHP\7.3\php-cgi.exe" php_cli="D:\Soft\Coding\PHP\7.3\php.exe" path_separator=";" version="7.3.10">
           <additional_php_ini />
           <configuration_file>D:\Soft\Coding\PHP\7.3\php.ini</configuration_file>
           <configuration_options>
@@ -37,6 +31,7 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
             <extension name="hash" />
