@@ -13,15 +13,4 @@
       </list>
     </option>
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-    <option name="SHOW_DIFF_PREVIEW" value="true" />
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
 </application>
