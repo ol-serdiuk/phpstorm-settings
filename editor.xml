@@ -6,4 +6,7 @@
     <option name="FONT_SIZE" value="14" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
 </application>
