@@ -1,0 +1,197 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledGrammarStrategies">
+      <set>
+        <option value="JavaScript:JavaScript" />
+        <option value="com.intellij.php.grazie:PHP" />
+        <option value="nl.rubensten.texifyidea:Latex" />
+        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
+        <option value="tanvd.grazi:JSON" />
+        <option value="tanvd.grazi:TEXT" />
+        <option value="tanvd.grazi:XML" />
+        <option value="tanvd.grazi:yaml" />
+      </set>
+    </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="WHITESPACE_RULE" />
+        <option value="PUNCTUATION_PARAGRAPH_END" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="EUPUB_FINANCIAL_ENVELOPE" />
+        <option value="EUPUB_ENTERPRISE" />
+        <option value="EUPUB_AGENT" />
+        <option value="WAITING_MY_PATIENT" />
+        <option value="EUPUB_DEAN" />
+        <option value="EUPUB_NAME" />
+        <option value="EUPUB_PLANIFICATION" />
+        <option value="EUPUB_SICKNESS_INSURANCE" />
+        <option value="EUPUB_REFLECTION_GROUP_FORUM" />
+        <option value="R_SYMBOL" />
+        <option value="EUPUB_RESPECT" />
+        <option value="EUPUB_DEBRIEFING" />
+        <option value="ARROWS" />
+        <option value="HONEST_TRUTH" />
+        <option value="EUPUB_ATTRIBUTE" />
+        <option value="EUPUB_ACTORNESS" />
+        <option value="EUPUB_FORESEE" />
+        <option value="IN_ORDER_TO" />
+        <option value="BEST_EVER" />
+        <option value="EUPUB_ORIENTATIONS" />
+        <option value="EN_QUOTES" />
+        <option value="EUPUB_VISA" />
+        <option value="EUPUB_MODULATION" />
+        <option value="EUPUB_RESPONSIBLE" />
+        <option value="EUPUB_DELAY" />
+        <option value="EUPUB_JUSTIFY_JUSTIFICATION" />
+        <option value="EUPUB_EVOLUTION" />
+        <option value="EUPUB_HOMOGENISE_HOMOGENEOUS_HOMOGENEOUSLY" />
+        <option value="EUPUB_DETACHED_DETACHMENT" />
+        <option value="EUPUB_PRESCRIPTION" />
+        <option value="EUPUB_PUNCTUAL" />
+        <option value="EUPUB_TRAINING" />
+        <option value="EUPUB_CABINET" />
+        <option value="EUPUB_SUPPRESS_SUPPRESSION" />
+        <option value="EUPUB_DECOMMIT" />
+        <option value="PASSIONATE_BY_ABOUT_2" />
+        <option value="IE_NO_COMMA" />
+        <option value="EUPUB_PROVIDE_TO" />
+        <option value="EUPUB_GLOBAL" />
+        <option value="EUPUB_EVENTUAL_EVENTUALLY" />
+        <option value="EUPUB_NORMALLY" />
+        <option value="EUPUB_TRANSPOSE_TRANSPOSITION" />
+        <option value="EUPUB_RETAIN" />
+        <option value="EUPUB_DOSSIER" />
+        <option value="EUPUB_INTRODUCE" />
+        <option value="EUPUB_BADGE" />
+        <option value="EUPUB_TRAVEL" />
+        <option value="COMMA_PARENTHESIS_WHITESPACE" />
+        <option value="COMMA_WHICH" />
+        <option value="WRONG_APOSTROPHE" />
+        <option value="CANT_HELP_BUT" />
+        <option value="EUPUB_OPERATOR" />
+        <option value="NEGATE_MEANING" />
+        <option value="EUPUB_LEGISLATOR" />
+        <option value="EUPUB_DO" />
+        <option value="EUPUB_HEAVY" />
+        <option value="EUPUB_AGENDA" />
+        <option value="EUPUB_INSIDE" />
+        <option value="EUPUB_EXTERNALISE_EXTERNALISATION" />
+        <option value="EG_NO_COMMA" />
+        <option value="EUPUB_ATTESTATION" />
+        <option value="EUPUB_COHERENT_COHERENCE" />
+        <option value="EUPUB_CONCERN" />
+        <option value="EUPUB_INCITE" />
+        <option value="EUPUB_MISSION" />
+        <option value="APOSTROPHE_IN_DATES" />
+        <option value="EUPUB_REASONABILITY" />
+        <option value="MULTIPLICATION_SIGN" />
+        <option value="BRIEF_MOMENT" />
+        <option value="EUPUB_PERSPECTIVE" />
+        <option value="SERIAL_COMMA_OFF" />
+        <option value="EUPUB_ELABORATE" />
+        <option value="EUPUB_SEMESTER_TRIMESTER" />
+        <option value="CURRENCY" />
+        <option value="EUPUB_SERVICE" />
+        <option value="EUPUB_FICHE" />
+        <option value="EUPUB_EXERCISE" />
+        <option value="EUPUB_DEFINE_DEFINITION" />
+        <option value="EUPUB_JURY" />
+        <option value="EUPUB_TREATMENT" />
+        <option value="EUPUB_NOTIFY_TO" />
+        <option value="EUPUB_PRECISE_TO_PRECISION" />
+        <option value="EUPUB_ASSIST_AT" />
+        <option value="EUPUB_INFORM_TO" />
+        <option value="EUPUB_ALLOW_PERMIT_ENABLE_TO" />
+        <option value="EUPUB_FOLLOW-UP" />
+        <option value="EUPUB_AIM" />
+        <option value="TRADEMARK" />
+        <option value="EUPUB_ARTICULATE_ARTICULATION" />
+        <option value="EUPUB_DEEPEN" />
+        <option value="EUPUB_ACTOR" />
+        <option value="EUPUB_ESTABLISH" />
+        <option value="EUPUB_MODIFY_MODIFICATION" />
+        <option value="EUPUB_CONTRADICTORY_PROCEDURE" />
+        <option value="BLEND_TOGETHER" />
+        <option value="SERIAL_COMMA_ON" />
+        <option value="CURRENCY_SPACE" />
+        <option value="EUPUB_SHALL" />
+        <option value="EUPUB_MODALITY" />
+        <option value="EUPUB_REQUEST" />
+        <option value="EUPUB_INTERVENTION" />
+        <option value="EUPUB_ANGLO_SAXON" />
+        <option value="APOSTROPHE_IN_DAYS" />
+        <option value="ELLIPSIS" />
+        <option value="EUPUB_COMITOLOGY" />
+        <option value="EUPUB_SO_CALLED" />
+        <option value="EN_UNPAIRED_BRACKETS" />
+        <option value="REASON_WHY" />
+        <option value="EUPUB_AXIS" />
+        <option value="EUPUB_BUDGET_LINE" />
+        <option value="EUPUB_CONSIDER_AS" />
+        <option value="PLUS_MINUS" />
+        <option value="CAPITALIZATION_NNP_DERIVED" />
+        <option value="EUPUB_DISPOSE_OF" />
+        <option value="EUPUB_CASE" />
+        <option value="EUPUB_CONTRACTUAL_AGENT" />
+        <option value="EUPUB_CONCERNED" />
+        <option value="FRAME" />
+        <option value="EUPUB_PROJECT" />
+        <option value="EUPUB_BOVINE_OVINE_CAPRINE_PORCINE_ASININE_ANIMALS" />
+        <option value="EUPUB_ACTUAL" />
+        <option value="SENTENCE_FRAGMENT" />
+        <option value="EUPUB_TRANSVERSE_TRANSVERSAL" />
+        <option value="POPULAR_AMONG_WITH" />
+        <option value="EUPUB_COMPETENCES" />
+        <option value="EUPUB_ANTI" />
+        <option value="COPYRIGHT" />
+        <option value="EUPUB_CONFERENCE" />
+        <option value="SENTENCE_WHITESPACE" />
+        <option value="ARE_ABLE_TO" />
+        <option value="EUPUB_TRANSMIT" />
+        <option value="EUPUB_INFORMATICS_TELEMATICS" />
+        <option value="EUPUB_NOTE" />
+        <option value="EUPUB_HIERARCHICAL_SUPERIOR" />
+        <option value="EUPUB_INSTANCE" />
+        <option value="EUPUB_CONDITIONALITY" />
+        <option value="EUPUB_FORMULATE" />
+        <option value="EUPUB_VERIFICATIONS" />
+        <option value="EUPUB_ANIMATE" />
+        <option value="EXACT_SAME" />
+        <option value="EUPUB_ENSURE_TO" />
+        <option value="EUPUB_CITIZEN" />
+        <option value="EUPUB_EXPERTISES" />
+        <option value="EUPUB_VALORISE_VALORIZE" />
+        <option value="EUPUB_OPPORTUNITY" />
+        <option value="EUPUB_COLLEGE" />
+        <option value="EUPUB_ADEQUATE" />
+        <option value="EUPUB_FIX" />
+        <option value="EUPUB_IMPORTANT" />
+        <option value="EUPUB_REINFORCE" />
+        <option value="WORLD_AROUND_IT" />
+        <option value="EUPUB_COMPLETE" />
+        <option value="EUPUB_CONTROL" />
+        <option value="HYPOTHESIS_TYPOGRAPHY" />
+        <option value="EUPUB_FOLLOW_UP" />
+        <option value="EUPUB_THIRD_COUNTRY" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="service" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInCommitMessagesEnabled" value="true" />
+        <option name="isCheckInStringLiteralsEnabled" value="true" />
+      </CheckingContext>
+    </option>
+  </component>
+</application>
