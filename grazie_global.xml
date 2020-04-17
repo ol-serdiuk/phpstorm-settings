@@ -6,6 +6,8 @@
         <option value="PUNCTUATION_PARAGRAPH_END" />
         <option value="EUPUB_NAME" />
         <option value="EN_UNPAIRED_BRACKETS" />
+        <option value="PASSIVE_VOICE" />
+        <option value="And" />
       </set>
     </option>
     <option name="userEnabledRules">
