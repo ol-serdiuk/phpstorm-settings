@@ -5,6 +5,7 @@
         <option value="WHITESPACE_RULE" />
         <option value="PUNCTUATION_PARAGRAPH_END" />
         <option value="EUPUB_NAME" />
+        <option value="EN_UNPAIRED_BRACKETS" />
       </set>
     </option>
     <option name="userEnabledRules">
@@ -52,7 +53,6 @@
         <option value="EUPUB_ORIENTATIONS" />
         <option value="EUPUB_COMITOLOGY" />
         <option value="EUPUB_SO_CALLED" />
-        <option value="EN_UNPAIRED_BRACKETS" />
         <option value="REASON_WHY" />
         <option value="EUPUB_AXIS" />
         <option value="EUPUB_BUDGET_LINE" />
