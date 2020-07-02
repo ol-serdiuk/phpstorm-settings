@@ -2,10 +2,20 @@
   <component name="PhpThisOrSelfImportFilteringUsageSetting">
     <option name="SHOW_THIS_OR_SELF_REFERENCES" value="true" />
   </component>
-  <component name="UsageViewSettings">
+  <component name="ShowUsagesSettings">
     <option name="IS_EXPANDED" value="true" />
+    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
+    <option name="GROUP_BY_MODULE" value="true" />
+    <option name="GROUP_BY_PACKAGE" value="true" />
     <option name="GROUP_BY_SCOPE" value="true" />
+    <option name="GROUP_BY_USAGE_TYPE" value="true" />
     <option name="IS_PREVIEW_USAGES" value="true" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.42864692" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
+    <option name="GROUP_BY_MODULE" value="false" />
+    <option name="GROUP_BY_PACKAGE" value="false" />
+    <option name="GROUP_BY_USAGE_TYPE" value="false" />
   </component>
 </application>
