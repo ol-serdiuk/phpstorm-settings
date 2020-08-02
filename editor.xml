@@ -10,4 +10,7 @@
   <component name="EditorSettings">
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
 </application>
