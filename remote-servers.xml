@@ -3,6 +3,19 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
+        <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="C:\Users" />
+              <option name="virtualMachinePath" value="/c/Users" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="d:/web/sentry-portal" />
+              <option name="virtualMachinePath" value="/var/www/html" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
   </component>
