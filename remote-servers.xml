@@ -10,6 +10,10 @@
               <option name="localPath" value="d:/web/sentry-portal" />
               <option name="virtualMachinePath" value="/var/www/html" />
             </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="c:/Dev/sentry-portal" />
+              <option name="virtualMachinePath" value="/var/www/html" />
+            </DockerPathMappingImpl>
           </list>
         </option>
       </configuration>
