@@ -8,6 +8,7 @@
       <mapping pattern="errorLog" type="PLAIN_TEXT" />
       <mapping pattern="orderProcessLog" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="sourceType" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
