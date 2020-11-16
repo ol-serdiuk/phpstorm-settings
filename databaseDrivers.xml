@@ -6,6 +6,9 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="db2.11">
+      <option name="auto-sync" value="false" />
+    </driver>
     <driver id="db2">
       <option name="auto-sync" value="false" />
     </driver>
@@ -38,8 +41,8 @@
     <driver id="hsqldb.remote">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mariadb">
-      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.6.0" />
+    <driver id="mariadb" name="MySQL1">
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" channel="fixed" rolling="false" use="true" version="8.0.21" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
@@ -62,7 +65,7 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="mysql.8">
-      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" channel="fixed" rolling="false" use="true" version="8.0.21" />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" channel="fixed" rolling="false" use="true" version="8.0.21" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="format-sources-on-sync" value="true" />
