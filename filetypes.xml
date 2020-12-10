@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="conf" type="Ini" />
       <mapping ext="tpl" type="PHP" />
@@ -13,20 +13,16 @@
       <mapping pattern="sourceType" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
-      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="volt" type="Twig" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".conf" approved="true" type="Ini" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <removed_mapping pattern=".conf" approved="true" type="Ini" />
     </extensionMap>
   </component>
 </application>
