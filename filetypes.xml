@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="bat" type="Batch" />
       <mapping ext="conf" type="Ini" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern=".disabled" type="PLAIN_TEXT" />
@@ -14,7 +15,7 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
