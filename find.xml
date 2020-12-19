@@ -18,7 +18,7 @@
     <mask>*.apib</mask>
     <mask>*.apib, *.txt</mask>
     <mask>*.json</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
