@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="bat" type="Batch" />
       <mapping ext="conf" type="Ini" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern=".disabled" type="PLAIN_TEXT" />
@@ -24,6 +23,7 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping pattern=".conf" approved="true" type="Ini" />
+      <mapping ext="bat" type="Batch" />
     </extensionMap>
   </component>
 </application>
