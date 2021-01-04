@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping ext="conf" type="Ini" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern=".disabled" type="PLAIN_TEXT" />
