@@ -5,6 +5,7 @@
       <mapping ext="ini-off" type="Ini" />
       <mapping ext="conf" type="Ini" />
       <mapping ext="ini-on" type="Ini" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern=".disabled" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
