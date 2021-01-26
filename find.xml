@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\apps'" />
-    <option name="defaultScopeName" value="Directory '...\apps'" />
+    <option name="customScope" value="File '...\composer.json'" />
+    <option name="defaultScopeName" value="File '...\composer.json'" />
     <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\apps'" />
+    <option name="SEARCH_SCOPE" value="File '...\composer.json'" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
