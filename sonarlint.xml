@@ -8,7 +8,7 @@
       <Rule key="php:S105" />
       <Rule key="php:S1131" />
       <Rule key="php:S2260" />
-      <Rule key="php:S1578" />
+      <Rule active="false" key="php:S1578" />
       <Rule key="php:S2701" />
       <Rule key="php:S1451" />
       <Rule key="php:S5899" />
