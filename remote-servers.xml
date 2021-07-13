@@ -11,7 +11,7 @@
               <option name="virtualMachinePath" value="/var/www/html" />
             </DockerPathMappingImpl>
             <DockerPathMappingImpl>
-              <option name="localPath" value="c:/Dev/sentry-portal" />
+              <option name="localPath" value="d:/web/aar-training" />
               <option name="virtualMachinePath" value="/var/www/html" />
             </DockerPathMappingImpl>
           </list>
