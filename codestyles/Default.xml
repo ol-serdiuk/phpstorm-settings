@@ -17,7 +17,6 @@
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
-    <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
@@ -43,7 +42,6 @@
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
-    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
