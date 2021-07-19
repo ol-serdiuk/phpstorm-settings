@@ -24,6 +24,7 @@
     <mask>*.volt</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
     <mask>*.php</mask>
   </component>
 </application>
