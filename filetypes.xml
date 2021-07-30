@@ -4,18 +4,16 @@
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="chromedriver" type="AUTO_DETECTED" />
       <mapping ext="ini-off" type="Ini" />
-      <mapping ext="conf" type="Ini" />
       <mapping ext="ini-on" type="Ini" />
       <mapping pattern=".php_cs.dist" type="PHP" />
-      <mapping ext="tpl" type="PHP" />
-      <mapping pattern=".disabled" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
-      <mapping pattern="php" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
-      <mapping pattern="errorLog" type="PLAIN_TEXT" />
-      <mapping pattern="orderProcessLog" type="PLAIN_TEXT" />
+      <mapping pattern=".disabled" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="errorLog" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern="sourceType" type="PLAIN_TEXT" />
+      <mapping pattern="php" type="PLAIN_TEXT" />
+      <mapping pattern="orderProcessLog" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
