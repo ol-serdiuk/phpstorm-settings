@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="storage" type="AUTO_DETECTED" />
+      <mapping pattern="simple-phpunit" type="AUTO_DETECTED" />
       <mapping pattern="chromedriver" type="AUTO_DETECTED" />
       <mapping ext="ini-off" type="Ini" />
       <mapping ext="ini-on" type="Ini" />
