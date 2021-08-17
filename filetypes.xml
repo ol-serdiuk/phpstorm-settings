@@ -5,6 +5,7 @@
       <mapping pattern="storage" type="AUTO_DETECTED" />
       <mapping pattern="simple-phpunit" type="AUTO_DETECTED" />
       <mapping pattern="chromedriver" type="AUTO_DETECTED" />
+      <mapping pattern="phpunit" type="AUTO_DETECTED" />
       <mapping ext="ini-off" type="Ini" />
       <mapping ext="ini-on" type="Ini" />
       <mapping pattern=".php_cs.dist" type="PHP" />
