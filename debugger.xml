@@ -1,6 +1,9 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <sort-values>true</sort-values>
+      <option name="valueLookupDelay" value="500" />
+    </data-views>
     <general />
     <debuggers>
       <debugger id="javascript">
