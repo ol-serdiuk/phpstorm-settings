@@ -1,0 +1,17 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="HTML" />
+        <option value="JavaScript" />
+        <option value="PHP" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="JavaScript" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="JavaScript">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+    </object>
+  </component>
+</application>
