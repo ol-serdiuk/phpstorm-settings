@@ -61,6 +61,7 @@
   <component name="PhpSmartKeysConfiguration">
     <option name="autoInsertFullPhpOpenTag" value="false" />
     <option name="findUsagesOfBaseMethod" value="true" />
+    <option name="promptFindUsagesOfBaseMethod" value="false" />
     <option name="replaceUnnecessaryDoubleQuotes" value="true" />
     <option name="smartFunctionParametersCompletion" value="true" />
   </component>
