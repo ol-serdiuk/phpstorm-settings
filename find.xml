@@ -12,7 +12,6 @@
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.vue</mask>
     <mask>*.apib</mask>
     <mask>*.apib, *.txt</mask>
     <mask>*.ini</mask>
@@ -31,5 +30,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
